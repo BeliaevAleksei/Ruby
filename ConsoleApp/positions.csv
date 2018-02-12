@@ -1,0 +1,4 @@
+name,division,salary,age,education,specialty,num_jobs
+Debuger,Debug,24000,21,NotFull,FIIT,15
+Programmer,Debug,20000,21,NotFull,FIIT,13
+Programmer,Something,23000,22,NotFull,IVT,15
