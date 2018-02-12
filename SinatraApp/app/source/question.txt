@@ -1,0 +1,11 @@
+question,first,second,third,fourth,answer
+The milky way is...,Galaxy,Cluster of stars,Parade of the planets,Solar system,a
+As from Eurasia to walk to get to North America?,Across the isthmus in the Bering Strait,Ice from Chukotka to Alaska,According to the new Euro-American bridge,Does,d
+The Paramecium caudatum is...,Bacteria,Virus,The simplest single-celled organism,Fashion shoes,c
+Tsar Peter 1 the number of the Romanov dynasty?,1st,2nd,3rd,4th,c
+Who invented Jeans?,Pierre Cardin,Levi Strauss,Gianni Versace,Dolce Gabbana,b
+Some Soviet-Russian film won the 'Academy Awards'?,Kin-DZA-DZA,Moscow does not believe in tears,The battalions are asked to fire,Stalker,b
+Peru what the writer belongs to the phrase 'Started with the inability to wear stockings and ended in the inability to live'?,Dostoevsky 'The Idiot',Tolstoy 'War and peace',Griboedov 'Woe from wit',Goncharov 'Oblomov',d
+Who wrote 'Moonlight Sonata'?,Bach,Beethoven,Tchaikovsky,Chopin,b
+Who owns the phrase 'Time Is Money',Rockefeller,Franklin,Businessmen,Carnegie,b
+Who invented the computer?,Bill Gates,Steve Jobs,Charles Babbage,Alan Turing,c
